@@ -18,7 +18,6 @@
 * Chirplet (https://en.wikipedia.org/wiki/Chirplet_transform)
 * Constant Q (https://en.wikipedia.org/wiki/Constant-Q_transform)
 * Non stationary Gabor Transform
- * https://github.com/grrrr/nsgt 
 * Wigner - Ville (https://en.wikipedia.org/wiki/Wigner_distribution_function)
 * S Trasnform (https://en.wikipedia.org/wiki/S_transform)
 * Reassignment (https://en.wikipedia.org/wiki/Reassignment_method) 
@@ -34,3 +33,4 @@
 * http://melizalab.github.io/libtfr/
 * https://github.com/ebrevdo/synchrosqueezing
 * https://github.com/HaizhaoYang/SynLab
+* https://github.com/grrrr/nsgt 
